@@ -1,0 +1,40 @@
+ BODY {
+	font-family:Arial;
+	font-size:10pt;
+ }
+ .message-error {
+	border-color:#FF0000;
+	border-style:solid;
+	border-width:4pt;
+	background-color:#FFFF00;
+	color:#000000;
+	text-align:center;
+	font-size:150%;
+ }
+ .log-table {
+	background-color:#D8D8D8;
+	width:100%;
+ }
+ .log-table-caption {
+     caption-side: top;
+     font-size:12pt;
+     }
+
+ .log-table-row {
+	margin:1em;
+	}
+TH {
+	background-color:#088A85;
+	color:#FFFFFF;
+	font-size:11pt;
+}
+TD {
+	padding:0.1em;
+	font-size:10pt;
+}
+ .log-table-header-cell {
+	margin:2em;
+ }
+#actions-table {
+	width:100%;
+	}
